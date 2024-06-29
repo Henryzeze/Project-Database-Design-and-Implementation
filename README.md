@@ -66,7 +66,26 @@ The attributes can be identified as the columns in each entity table. For exampl
 - Quantity
 - Price
 
-## Task 3 - Create an entity relationship diagram (ERD) using the pgAdmin ERD Tool
+## Task 3 & 4 - Create an entity relationship diagram (ERD) using the pgAdmin ERD Tool and Normalized tables
 
-![](ERD_diagram.png)
+![](ERD_diagram.JPG)
 
+## Task 5 - Define keys and relationships
+
+![](Task5B.JPG)
+
+## Task 6 - Create database objects by generating and running the SQL script from the ERD Tool.
+
+[SQL Script](https://github.com/Henryzeze/Project-Database-Design-and-Implementation/blob/main/GeneratedScript.sql)
+
+## Task 7 - Create a view and export the data.
+
+![](Task7.JPG)
+
+## Task 8 - Create a materialized view and export the data
+
+![](Task8.JPG)
+
+## Task 9 - Import data into a MySQL database
+
+![](Task10.JPG)
